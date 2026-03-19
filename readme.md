@@ -1,4 +1,4 @@
-## 🇮🇩 Itinerary — Bali Wedding Trip (May 24–30)
+## 🇮🇩 Itinerary — Bali Wedding Trip (May 23–29)
 
 | Date | Description | Location | Arrangement | Accommodation | Notes |
 | --- | ----------- | -------- | ------------ | -------------- | ---- |
