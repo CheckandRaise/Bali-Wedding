@@ -12,7 +12,7 @@
 
 ---
 ## 🗺️ Visual Route Map
-![Bali Wedding Route](./assets/bali-map.png)
+![Bali Wedding Route](./bali-map.png)
 
 ## ⚠️ Logistics Notes
 
