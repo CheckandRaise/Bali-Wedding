@@ -11,7 +11,9 @@
 | **May 29** | Leisure Day & Fly back to Guangzhou | ✈️ **Bali (巴厘岛)** | Free time in Kuta (shopping / beach / spa); Transfer to Denpasar Airport (登巴萨); International flight back to Guangzhou | — | Allow 3–4 hr buffer |
 
 ---
+## 🗺️ Route Map
 
+![Bali Trip Map](https://maps.googleapis.com/maps/api/staticmap?size=800x500&markers=Bali&markers=Ubud&markers=Kuta&markers=Nusa+Penida&path=Bali|Nusa+Penida|Ubud|Kuta|Bali)
 ---
 
 ## ⚠️ Logistics Notes
