@@ -14,9 +14,14 @@
 ## 🗺️ Visual Route Map
 ![Bali Wedding Route](./bali-map.png)
 
-## ⚠️ Logistics Notes
-
-- Fast boat to Nusa Penida (佩尼达岛) departs from Sanur Harbor (萨努尔港).
-- Bali traffic can be heavy — pre-book private drivers for wedding days.
-- Domestic to international transfer in Bali requires buffer time.
-- Roads in Nusa Penida (佩尼达岛) are bumpy; choose experienced local drivers.
+## Costs
+| 花费名称 | 花销（按货币） | 人民币花销（折算） |
+|---|---:|---:|
+| 婚礼+婚拍 | RMB 20,899.00 | RMB 20,899.00 |
+| Visa | IDR 3,144,000 | RMB 1,257.60 |
+| 机票 | HKD 21,150.84 | RMB 18,506.99 |
+| 住宿 | HKD 4,545.74 | RMB 3,977.52 |
+| 佩妮达包车（西线+码头到酒店） | IDR 1,500,000 | RMB 600.00 |
+| 阿勇河漂流+ATV一日游 | HKD 1,912.46 | RMB 1,673.40 |
+| 按摩两人90分钟 | IDR 480,000 | RMB 192.00 |
+| **合计** | — | **RMB 47,106.51** |
